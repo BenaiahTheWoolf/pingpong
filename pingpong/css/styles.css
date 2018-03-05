@@ -1,0 +1,10 @@
+.jumbotron {
+  text-align: center;
+  background-color: gold;
+}
+.jumbotron {
+  background-image: url(../img/icon.jpg);
+  color: white;
+  text-align: left;
+  background-size: absolute;
+}
